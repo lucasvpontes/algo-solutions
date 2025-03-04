@@ -5,6 +5,7 @@ public class MaxDepth {
         System.out.println(maxDepth(Node.create()));
     }
 
+    // test
     public static int maxDepth(Node root) {
        if (root == null) {
        return 0;
