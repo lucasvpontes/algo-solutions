@@ -5,31 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="46fd4725-0505-4e16-a0a3-5d7219bab730" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/algo-solutions/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/algo-solutions/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/algo-solutions/src/array/ClearDigits.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/algo-solutions/src/array/MajorityElement.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/algo-solutions/src/array/MaxProfit.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/algo-solutions/src/array/MergedSortedArray.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/algo-solutions/src/array/PalindromeNumber.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/algo-solutions/src/array/RemoveDuplicates.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/algo-solutions/src/array/RemoveDuplicatesSortedArray.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/algo-solutions/src/array/RemoveElement.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/algo-solutions/src/array/RomanToInt.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/algo-solutions/src/array/RomanToInteger.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/algo-solutions/src/array/TwoSum.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/algo-solutions/src/binarysearch/BinarySearch.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/algo-solutions/src/binarysearch/TwoBallsProblem.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/algo-solutions/src/binarytree/BFS.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/algo-solutions/src/binarytree/BinaryTree.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/algo-solutions/src/binarytree/DFS.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/algo-solutions/src/binarytree/InorderTransversal.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/algo-solutions/src/binarytree/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/algo-solutions/src/binarytree/MaxDepth.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/algo-solutions/src/binarytree/Node.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/algo-solutions/src/binarytree/SameTree.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/algo-solutions/src/binarytree/SumOfLeftLeaves.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/algo-solutions/src/binarytree/SymmetricTree.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/binarytree/BFS.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/binarytree/BFS.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/binarytree/MaxDepth.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/binarytree/MaxDepth.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/binarytree/Node.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/binarytree/Node.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -170,6 +149,8 @@
       <workItem from="1741122351332" duration="1376000" />
       <workItem from="1741125796667" duration="126000" />
       <workItem from="1741125946105" duration="101000" />
+      <workItem from="1741127309671" duration="7000" />
+      <workItem from="1741127396326" duration="289000" />
     </task>
     <servers />
   </component>

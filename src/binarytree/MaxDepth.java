@@ -2,16 +2,18 @@ package binarytree;
 
 public class MaxDepth {
     public static void main(String[] args) {
-
+        System.out.println(maxDepth(Node.create()));
     }
 
-    public int maxDepth(Node root) {
-        if (root == null) {
-            return 0;
-        } else {
-            int leftHeight = maxDepth(root.left);
-            int rightHeight = maxDepth(root.right);
-            return (leftHeight > rightHeight ? leftHeight : rightHeight) + 1;
-        }
+    // test
+    public static int maxDepth(Node root) {
+       if (root == null) {
+       return 0;
+       }
+
+       int left = maxDepth(root.left);
+       int right = maxDepth(root.right);
+
+       return 1 + Math.max(left, right);
     }
 }
