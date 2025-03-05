@@ -5,9 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="46fd4725-0505-4e16-a0a3-5d7219bab730" name="Changes" comment="add bitree abstraction and max depth">
-      <change afterPath="$PROJECT_DIR$/src/binarytree/BalancedBinaryTree.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/binarytree/PadString.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/binarytree/MinimumDepthBinaryTree.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/binarytree/Node.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/binarytree/Node.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -70,7 +70,7 @@
       <recent name="$PROJECT_DIR$/src/src" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.PadString">
+  <component name="RunManager" selected="Application.MinimumDepthBinaryTree">
     <configuration name="BFS" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="binarytree.BFS" />
       <module name="src" />
@@ -104,6 +104,19 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="MinimumDepthBinaryTree" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="binarytree.MinimumDepthBinaryTree" />
+      <module name="algo-solutions" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="binarytree.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="PadString" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="binarytree.PadString" />
       <module name="algo-solutions" />
@@ -117,32 +130,19 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SumOfLeftLeaves" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="binarytree.SumOfLeftLeaves" />
-      <module name="src" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="binarytree.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <list>
+      <item itemvalue="Application.MinimumDepthBinaryTree" />
       <item itemvalue="Application.PadString" />
       <item itemvalue="Application.Main" />
       <item itemvalue="Application.BFS" />
       <item itemvalue="Application.MaxDepth" />
-      <item itemvalue="Application.SumOfLeftLeaves" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.MinimumDepthBinaryTree" />
         <item itemvalue="Application.PadString" />
         <item itemvalue="Application.MaxDepth" />
         <item itemvalue="Application.Main" />
-        <item itemvalue="Application.BFS" />
         <item itemvalue="Application.BFS" />
       </list>
     </recent_temporary>
@@ -171,5 +171,16 @@
   </component>
   <component name="VgoProject">
     <settings-migrated>true</settings-migrated>
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/binarytree/MinimumDepthBinaryTree.java</url>
+          <line>15</line>
+          <option name="timeStamp" value="39" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>
