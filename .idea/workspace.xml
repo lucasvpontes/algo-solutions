@@ -4,22 +4,31 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="46fd4725-0505-4e16-a0a3-5d7219bab730" name="Changes" comment="">
+    <list default="true" id="46fd4725-0505-4e16-a0a3-5d7219bab730" name="Changes" comment="add bitree abstraction and max depth">
+      <change afterPath="$PROJECT_DIR$/src/binarytree/BalancedBinaryTree.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/binarytree/PadString.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/binarytree/BFS.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/binarytree/BFS.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/binarytree/MaxDepth.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/binarytree/MaxDepth.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/binarytree/Node.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/binarytree/Node.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="ProjectErrors" />
   </component>
   <component name="ProjectId" id="2tru7m84w6tciU9qzxttebFHegE" />
   <component name="ProjectLevelVcsManager">
@@ -61,7 +70,7 @@
       <recent name="$PROJECT_DIR$/src/src" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Main">
+  <component name="RunManager" selected="Application.PadString">
     <configuration name="BFS" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="binarytree.BFS" />
       <module name="src" />
@@ -82,12 +91,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MajorityElement" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="array.MajorityElement" />
-      <module name="src" />
+    <configuration name="MaxDepth" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="binarytree.MaxDepth" />
+      <module name="algo-solutions" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="array.*" />
+          <option name="PATTERN" value="binarytree.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -95,9 +104,9 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MaxDepth" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="binarytree.MaxDepth" />
-      <module name="src" />
+    <configuration name="PadString" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="binarytree.PadString" />
+      <module name="algo-solutions" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="binarytree.*" />
@@ -122,19 +131,19 @@
       </method>
     </configuration>
     <list>
+      <item itemvalue="Application.PadString" />
       <item itemvalue="Application.Main" />
       <item itemvalue="Application.BFS" />
-      <item itemvalue="Application.MajorityElement" />
       <item itemvalue="Application.MaxDepth" />
       <item itemvalue="Application.SumOfLeftLeaves" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.PadString" />
+        <item itemvalue="Application.MaxDepth" />
         <item itemvalue="Application.Main" />
         <item itemvalue="Application.BFS" />
         <item itemvalue="Application.BFS" />
-        <item itemvalue="Application.MaxDepth" />
-        <item itemvalue="Application.SumOfLeftLeaves" />
       </list>
     </recent_temporary>
   </component>
